@@ -1,0 +1,42 @@
+.Head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.serch {
+    border: 1px solid black;
+    width: 150px;
+    height: 20px;
+}
+
+.detail {
+    display: flex;
+}
+
+.my-img {
+    margin: 40px;
+}
+
+.Story {
+    padding-top: 20px;
+}
+
+.activity {
+    margin: 500px;
+    margin-left: -500px;
+}
+
+.img {
+    margin: 600px;
+    margin-left: -300px;
+}
+
+.preformance {
+    margin: 1300px;
+    margin-left: -1400px;
+}
+
+.photo {
+    margin: 1500px;
+    margin-left: -1050px;
+}
